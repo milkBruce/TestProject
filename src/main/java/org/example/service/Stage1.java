@@ -1,7 +1,5 @@
 package org.example.service;
 
-import org.example.Main;
-
 import java.util.Stack;
 
 public class Stage1 {
